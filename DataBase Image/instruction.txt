@@ -1,3 +1,6 @@
 Please create the Database and table with the names mentioned in the image.
 Create the table with the feild names and type. Hope its very clear to understand.
 
+
+
+![Capture](https://user-images.githubusercontent.com/68402283/98788488-f902ce80-2426-11eb-8ad7-4b0ad53ef41c.PNG)
