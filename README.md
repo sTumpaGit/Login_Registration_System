@@ -3,9 +3,11 @@
 This is a simple login-registration page.
 
 There are 8 fields – Username , Full name , Gender , Educational Qualification, Date of Birth, Email, Password and ImageLlink. 
-I have used HTML5, CSS3, JavaScript , php and mySql .
+I have used HTML5, CSS3, JavaScript , php and mySql.
+
 Database Name – samplelogindB 
 Table name - userinfotableall
+
 This project has four php files – 
 1. index.php( For the Log in page. If any username is not recorded or wrong username/password  is typed then it shows “ Invalid Credentials ”. Then go for new log in or register a new table. )
 2. register.php( For Registration page) - I have used radio button , selection , uploading of photo here. If picture is more than 2 MB it will not be accepted. If registration is successful then data is shown in userinfotableall table in sampleloginDB database. No two username will be same.)
