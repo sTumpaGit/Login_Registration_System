@@ -1,0 +1,3 @@
+Please create the Database and table with the names mentioned in the image.
+Create the table with the feild names and type. Hope its very clear to understand.
+
